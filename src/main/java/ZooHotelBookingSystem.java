@@ -138,9 +138,11 @@ public class ZooHotelBookingSystem {
         String favoriteFood = getUserString();
 
         printAllRooms();
+        System.out.println(" ");
         System.out.println(" Which room would you like to book?");
         System.out.print("> ");
         int r = Integer.parseInt(getUserString());
+        System.out.println("Room " + r + " is booked.");
 
         switch (animalType) {
             case "Ape" -> {
@@ -207,7 +209,9 @@ public class ZooHotelBookingSystem {
                 if (!rooms.get(i).isEmpty()) {
 
                     if (rooms.get(i).getGuest().getName().equals(s2)) {
-                        answer = (rooms.get(i).getGuest().getInfo() + rooms.get(i));
+                        answer = (rooms.get(i).getGuest().getInfo() + "\n"+
+                                "Booked in room " + rooms.get(i).getRoomNbr() + ", " + rooms.get(i).getPrice() + "$/night" +
+                                " |" + rooms.get(i).getDescription());
                         i = rooms.size();
                     }
                 }
