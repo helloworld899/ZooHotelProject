@@ -30,7 +30,7 @@ public class Room {
         isEmpty = true;
     }
 
-    //3:e konstruktorn
+    //3:e konstruktorn som är tom
     public Room() {}
 
 

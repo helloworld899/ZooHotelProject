@@ -32,7 +32,6 @@ public class Animal {
         this.favoriteActivity = favoriteActivity;
     }
 
-
     public String getFavoriteFood() {
         return favoriteFood;
     }
@@ -42,7 +41,7 @@ public class Animal {
     }
 
     public String getInfo() {
-        return (name + " " + " " + " FavoritAktivitet:" + " " + favoriteActivity + " " + " FavoriteFood:" + " " + favoriteFood);
+        return (name + " " + " " + " FavoritActivity:" + " " + favoriteActivity + " " + " FavoriteFood:" + " " + favoriteFood);
     }
 }
 

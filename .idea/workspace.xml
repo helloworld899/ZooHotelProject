@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="064887e3-b82c-441b-8f16-c7c4a09881c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="064887e3-b82c-441b-8f16-c7c4a09881c0" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Room.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ZooHotelBookingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZooHotelBookingSystem.java" afterDir="false" />
     </list>
@@ -132,8 +132,16 @@
       <option name="presentableId" value="Default" />
       <updated>1636487731578</updated>
       <workItem from="1636487733180" duration="2004000" />
-      <workItem from="1636490027786" duration="72322000" />
+      <workItem from="1636490027786" duration="73050000" />
+      <workItem from="1637081150332" duration="3169000" />
     </task>
+    <task id="LOCAL−00001" summary="Initial commit">
+      <created>1637080345158</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1637080345158</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,5 +157,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
