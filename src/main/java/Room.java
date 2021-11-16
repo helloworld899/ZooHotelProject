@@ -51,7 +51,7 @@ public class Room {
         this.price = price;
     }
 
-    //Overriding method --> overridden in the three separate room classes
+    //Overriding method --> overridden in the three separate sub-room classes
     String getDescription() {
         return "Comfortable and spacious rooms";
     }
