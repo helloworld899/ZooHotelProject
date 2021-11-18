@@ -251,7 +251,7 @@ public class ZooHotelBookingSystem {
 
                           /*
                           I if-satsen ovan har vi behövt använda oss utav String metoden .toLowerCase() för 'getName()'
-                          samt inputen 'letter' för att programmet skall kunna matcha stor och liten bokstav oavsett
+                          samt inputen 'letter' för att programmet skall kunna matcha stor och liten bokstav utifrån
                           det användaren har skrivit som input i systemet.
                            */
             }
